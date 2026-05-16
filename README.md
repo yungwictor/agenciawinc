@@ -1,13 +1,13 @@
-# Agencia Winc
+# Winc Agency
 
-Site institucional da Agencia Winc com:
+Institutional website for Winc Agency featuring:
 
 - home
 - portfolio
-- briefing de landing pages e funis
-- briefing de posicionamento e identidade visual
+- landing pages and funnels briefing
+- positioning and visual identity briefing
 
-## Estrutura
+## Structure
 
 - `index.html`
 - `portfolio.html`
