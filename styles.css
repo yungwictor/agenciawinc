@@ -975,7 +975,7 @@ img {
 
 .briefing-hero-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(300px, 0.86fr);
+  grid-template-columns: minmax(0, 1fr);
   gap: 1.2rem;
   align-items: start;
 }
