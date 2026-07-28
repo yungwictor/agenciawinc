@@ -1,31 +1,40 @@
 # Winc Agency
 
-Static institutional website for Winc Agency, prepared for Netlify deploy at:
+Institutional website for Winc Agency, built as a static marketing site with portfolio pages, service briefings, and Netlify-ready deployment.
 
-- `https://agenciawinc.netlify.app`
+## Live Site
 
-## Includes
+https://agenciawinc.netlify.app
 
-- home
-- portfolio
-- landing pages and funnels briefing
-- positioning and visual identity briefing
+## Overview
 
-## Deploy structure
+- Home page focused on positioning, growth, and digital performance
+- Portfolio and service presentation for agency offerings
+- Dedicated briefing pages for landing pages, branding, paid media, WhatsApp automation, SaaS creation, and audiovisual production
+- Static SEO structure with canonical tags, structured data, robots.txt, and sitemap support
 
-- clean URLs managed by `netlify.toml`
-- static SEO base with `canonical`, `robots.txt`, `sitemap.xml`, and structured data
-- optimized WebP assets for on-page rendering
-- fully static deploy, with no backend dependency
+## Stack
 
-## Files
+- HTML
+- CSS
+- JavaScript
+- Netlify configuration and security headers
+
+## Key Files
 
 - `index.html`
 - `portfolio.html`
 - `briefing-landing-pages.html`
 - `briefing-identidade-visual.html`
-- `404.html`
-- `netlify.toml`
+- `briefing-trafego-pago.html`
+- `briefing-social-media.html`
+- `briefing-automacao-whatsapp.html`
+- `briefing-criacao-saas.html`
+- `briefing-audiovisual-imagens-aereas.html`
 - `styles.css`
 - `briefings.js`
-- `assets/`
+- `netlify.toml`
+
+## Deployment
+
+This project is configured for static deployment on Netlify.
