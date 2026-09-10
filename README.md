@@ -1,5 +1,7 @@
 # Winc Agency
 
+> See [portfolio quality notes](docs/portfolio-quality.md) for the business goal, demonstrative targets and accessibility checklist.
+
 Institutional website for Winc Agency, built as a static marketing site with portfolio pages, service briefings, and Netlify-ready deployment.
 
 ## Live Site
